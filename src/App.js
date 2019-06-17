@@ -6,6 +6,7 @@ import ScoreSheet from './components/ScoreSheet/ScoreSheet.js';
 function App() {
 
 
+  //添加一行注释
   var ps = [
     ['张三', '李四', 0, 2, 1],
     ['张三', '王五', 0, 2, 2],
